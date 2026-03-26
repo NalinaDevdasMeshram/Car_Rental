@@ -1,0 +1,17 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.navbar-brand {
+  font-weight: 700;
+}
+
+.page-card {
+  max-width: 650px;
+  margin: auto;
+}
+
+.card-hover:hover {
+  transform: translateY(-2px);
+  transition: 0.2s ease;
+}
