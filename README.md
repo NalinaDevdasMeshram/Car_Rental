@@ -182,17 +182,7 @@ Open the frontend entry page inside the `client` folder using your local develop
 | `/api/bookings` | Booking management |
 | `/api/agency` | Agency management |
 
-## 📸 Screenshots
 
-Add your actual application screenshots here.
-
-```markdown
-![Car Rental Home Page](./screenshots/home.png)
-
-![Available Cars](./screenshots/cars.png)
-
-![Agency Dashboard](./screenshots/agency-dashboard.png)
-```
 
 ## 📚 Key Learning Outcomes
 
